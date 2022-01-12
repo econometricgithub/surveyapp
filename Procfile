@@ -1,1 +1,0 @@
-web: gurnicorn app:app
