@@ -1,1 +1,0 @@
-web: gurnocorn app:app
